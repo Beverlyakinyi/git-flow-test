@@ -1,21 +1,135 @@
 #container{
     padding: 10px;
+
     margin:5%;
-    height: 800px;
-    width:1200px;
+    height: 1450px;
+    width:1600px;
     border:rgb(245, 225, 229);
     border-radius:5px;
     background-color: rgb(252, 225, 229);
 }
-#class{
-    padding:6%;
-    margin: 4%;
-    height: 500px;
+#navbar{
+    padding: 0% 0% 60% 5% ;
+    margin: 5% 5% 0% 5%;
+
     border: aliceblue;
     border-radius:40px;
     background-color: aliceblue;
 }
-#nav1{
+.nav1{
     text-decoration: none;
     color: black;
+    margin-top: 0%;
+    margin-left: 0%;
+    padding-top: 0%;
 }
+
+.photo1{
+    width: 3%; 
+    height:3%;
+}
+.photo2{
+    width:4%; 
+    height:4%;
+}
+#startstudying{
+    border: solid black 2px;
+    padding: 20px 40px;
+    font-size: 20px;
+    border-radius: 35px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+#d1{
+    border: solid white 1px;
+    border-radius: 40px;
+    height: 830px;
+    width: 380px;
+    background-color:#F0E68C;
+    float: right;
+    padding-right: 2%;
+    margin-right: 0%;
+    margin-top: 0%;
+}
+
+
+
+.Douter{
+    border: solid  #F0E68C 1px;
+    border-radius: 30px;
+    background-color: white;
+    height: 220px;
+    width: 260px;
+
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 7%;
+    margin-bottom: 40px;
+
+}
+
+#h1{
+    text-align:center;
+}
+
+i{
+    color: crimson;
+
+}
+.image{
+    border: solid white 1px;
+    border-radius: 20px;
+    width: 280px;
+    height: 90px;
+    margin-right: 150px;
+    margin-top: 20px;
+
+}
+#i1{
+    color: black;
+}
+#i2{
+    color: black;
+}
+#i3{
+    color: black;
+}
+#d2{
+    width: 80%;
+
+    color: black;
+    display: flex;
+    gap: 10%;
+    text-align: bottom;
+   
+    margin-left: 0%;
+    margin-top: 0%;
+    margin-bottom: 70%;
+    float: left;
+
+
+ 
+}
+#section2{
+    color: gray;
+    
+
+}
+#section3{
+    color: gray;
+    
+}
+#dropbox{
+    color: gray;
+    
+}
+
+
