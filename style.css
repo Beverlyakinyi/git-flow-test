@@ -2,8 +2,8 @@
     padding: 10px;
 
     margin:5%;
-    height: 1450px;
-    width:1600px;
+    height: 1520px;
+    width:1650px;
     border:rgb(245, 225, 229);
     border-radius:5px;
     background-color: rgb(252, 225, 229);
@@ -40,15 +40,13 @@
     color: white;
     background-color: black;
     cursor: pointer;
+       
+
 }
 
 
 
-
-
-
-
-#d1{
+#body2{
     border: solid white 1px;
     border-radius: 40px;
     height: 830px;
@@ -56,10 +54,17 @@
     background-color:#F0E68C;
     float: right;
     padding-right: 2%;
-    margin-right: 0%;
     margin-top: 0%;
-}
+    
 
+    
+   
+    
+    
+    
+
+
+}
 
 
 .Douter{
@@ -68,7 +73,6 @@
     background-color: white;
     height: 220px;
     width: 260px;
-
     padding-left: 10%;
     padding-right: 10%;
     margin-left: 7%;
@@ -78,6 +82,7 @@
 
 #h1{
     text-align:center;
+
 }
 
 i{
@@ -102,17 +107,17 @@ i{
 #i3{
     color: black;
 }
-#d2{
+#footer{
     width: 80%;
 
     color: black;
     display: flex;
-    gap: 10%;
-    text-align: bottom;
+    gap: 5%;
+  
    
     margin-left: 0%;
     margin-top: 0%;
-    margin-bottom: 70%;
+    margin-bottom:70%;
     float: left;
 
 
@@ -131,5 +136,49 @@ i{
     color: gray;
     
 }
+
+
+
+
+
+
+#body1{
+    
+    margin-top: 5%;
+    margin-left: 0%;
+    width: 1400px;
+    float: left;
+    margin-right: 40%;
+
+}
+
+
+#out1{
+    float: right;
+    height: 20%;
+    float: right;
+    width: 20%;
+    margin-right: 40%;
+    
+    
+    
+
+}
+
+
+#out2{
+    padding-right: 10%;
+    margin: right 10px; 
+    float: left; 
+    
+
+}
+
+
+
+
+
+
+    
 
 
